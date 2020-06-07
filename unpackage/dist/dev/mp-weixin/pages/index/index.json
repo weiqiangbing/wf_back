@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "微风",
+  "usingComponents": {
+    "upload": "/pages/upload/upload"
+  }
+}
